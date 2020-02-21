@@ -10,6 +10,6 @@ for f in range(0, 100_000):
     same_backwards(f)
 
 ## OUTPUT ##
-F: 61, C: 16
-F: 82, C: 28
-F: 7514, C: 4157
+# F: 61, C: 16
+# F: 82, C: 28
+# F: 7514, C: 4157
